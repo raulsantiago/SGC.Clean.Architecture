@@ -10,7 +10,7 @@ namespace SGC.ApplicationCore.Entity
         {
         }
 
-        public int CienteId { get; set; }
+        public int ClienteId { get; set; }
         public string Nome { get; set; }
         public string CPF { get; set; }
 
